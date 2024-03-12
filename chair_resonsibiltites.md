@@ -13,7 +13,7 @@ Below is a list of responsibilities of the PenCHORD Chair (who is expected to be
 - To cultivate and actively facilitate an environment in which all parties feel emotionally safe and able to communicate openly.
 - Ensure responsibility for the well-being of the team as a unit, and act as a point of contact for whole team well-being issues.
 - Support and encourage work-stream leads; help identify how to overcome blocks to progress where needed and possible.    
-- Champion the [strategy of the team](https://docs.google.com/document/d/1MExLDwujJuYHNMxIQGigUQ94zlr2qb_7YOG_yIKR55Q), and encourage working practices within the team that ensure and foster focus, promote development opportunities, and prioritise well-being.
+- Champion the [strategy of the team](management_proposal_jan_2024.md), and encourage working practices within the team that ensure and foster focus, promote development opportunities, and prioritise well-being.
 - Champion and support flexible working practices within the team.
 
 ## Point of contact and PenCHORD representation
